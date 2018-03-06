@@ -1,0 +1,3 @@
+/media/psf/Home/Desktop/School/Spring 2018/Image Analysis/Projects/Filtering and Edge Detection/CMakeFiles/edit_cache.dir
+/media/psf/Home/Desktop/School/Spring 2018/Image Analysis/Projects/Filtering and Edge Detection/CMakeFiles/rebuild_cache.dir
+/media/psf/Home/Desktop/School/Spring 2018/Image Analysis/Projects/Filtering and Edge Detection/CMakeFiles/p2.dir
